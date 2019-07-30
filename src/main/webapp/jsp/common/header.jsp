@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    敏敏教主的家常菜
+                    敏敏教主大人的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
